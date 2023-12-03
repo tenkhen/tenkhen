@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tenkhen.tenkhen" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khen!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Khen+from+Toronto!;I+love+coding+solutions.;Design+meets+function+in+my+work.;Tech+trends+excite+me.;Ideas+to+interactive+websites.;Speed+and+scalability+drive+me.;Teamwork+enhances+my+code.;Clean+code+is+an+art.;Debugging+fuels+my+curiosity.;Every+bug+is+a+challenge.;Learning+never+stops+in+development." />
+
 </h1>
 
 <h3 align="center">A passionate full-stack web developer from Canada 🇨🇦</h3>
