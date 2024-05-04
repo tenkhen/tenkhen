@@ -11,9 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **The Wild Oasis**
- 
- 🌱 I’m currently sharpening **React, Redux and NodeJS**
+🌱 I’m currently studying **QA**
 
  </div>
  
