@@ -20,22 +20,18 @@
     <a href="http://linkedin.com/in/khenrab-dorjee-lama-5a212b162" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 <!--     <a href="https://my-profile.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a> -->
 </div>
-
- <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,javascript,nodejs,express,react" /><br>
-    <img src="https://skillicons.dev/icons?i=redux,selenium,vite,html,css,tailwind,sass" /><br>
-    <img src="https://skillicons.dev/icons?i=styledcomponents,supabase,mongodb,postman,github,vscode,eclipse" />
-</div>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<hr/>
 
-<br/>
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Others)](https://git.io/typing-svg) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,js,py" title="Java, JavaScript, Python"/></a></div>                                                            | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nodejs,react" title="Spring Boot, NodeJs, React"/></a></div>                                                  | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,eclipse" title="VS Code, Eclipse"/></a></div>                                                           | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium,postman,maven" title="Selenium, Postman, Maven"/></a></div>                                            | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents" title="Tailwind, Sass, Styled-Components"/></a></div>                            |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,html,css" title="C-Sharp, HTML, CSS"/></a></div>                                                                 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redux,vite" title=".NET, Node.js"/></a></div>                                                                        | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/></a></div>                                                                        | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,git,github" title="Anaconda, Git, GitHub"/></a></div>                                                  | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" title="MySQL, MondoDB, Supabase"/></a></div>                                             |
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 <br>
 
 <div align=center>
