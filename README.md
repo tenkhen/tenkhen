@@ -36,10 +36,11 @@
 
 <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tenkhen&count_private=true&theme=react&hide_border=true" alt="GitHub Streak" /></a>
-  
-  <!-- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tenkhen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br />
+<!-- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tenkhen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 <img width=325 align="center" src="https://github-readme-stats-git-master-khenrabs-projects.vercel.app/api/top-langs/?username=tenkhen&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
+[![Khenrab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tenkhen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/><br/>
