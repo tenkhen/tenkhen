@@ -41,6 +41,6 @@
   <br/>
 <img width=325 align="center" src="https://github-readme-stats-git-master-khenrabs-projects.vercel.app/api/top-langs/?username=tenkhen&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
-[![Khenrab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tenkhen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Khenrab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tenkhen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/><br/>
