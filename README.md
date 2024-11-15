@@ -11,7 +11,7 @@
 
 <div align="center">
  
-🌱 I’m currently studying **QA**
+🌱 QA Automation Engineer
 
  </div>
  
