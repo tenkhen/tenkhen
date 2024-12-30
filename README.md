@@ -11,7 +11,7 @@
 
 <div align="center">
  
-🌱 QA Automation Engineer
+<!-- 🌱 QA Automation Engineer -->
 
  </div>
  
