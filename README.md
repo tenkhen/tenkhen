@@ -5,7 +5,7 @@
 
 </h1>
 
-<h3 align="center">A passionate developer from Toronto 🇨🇦</h3>
+<h3 align="center">A passionate SDET | Software Development Engineer in Test from Toronto 🇨🇦</h3>
 
 <br/>
 
