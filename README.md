@@ -35,7 +35,7 @@
 <br>
 
 <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=tenkhen&theme=transparent&fire=ff4101&sideLabels=fcce73&dates=fbae1f&currStreakLabel=fcce73&sideNums=fce5b4&stroke=fbae1f&ring=fbae1f&currStreakNum=fce5b4&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=tenkhen&theme=transparent&fire=ff4101&sideLabels=fcce73&dates=fbae1f&currStreakLabel=fcce73&sideNums=fce5b4&stroke=fbae1f&ring=fbae1f&currStreakNum=fce5b4" alt="GitHub Streak" /></a>
     <br />
 <!-- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tenkhen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
