@@ -5,7 +5,7 @@
 
 </h1>
 
-<h3 align="center">A Software Developer from Toronto 🇨🇦</h3>
+<h3 align="center">A Passionate Software Developer from Toronto 🇨🇦</h3>
 
 <br/>
  
