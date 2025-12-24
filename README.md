@@ -21,7 +21,7 @@
 <hr/>
 <div align="center">
     
-![](https://github-profile-trophy.vercel.app/?username=tenkhen&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&title=-Issues,-PullRequest,-Reviews&column=-1)
+![](https://github-profile-trophy-tawny.vercel.app/?username=tenkhen&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&title=-Issues,-PullRequest,-Reviews&column=-1)
 
 </div>
 <hr/>
